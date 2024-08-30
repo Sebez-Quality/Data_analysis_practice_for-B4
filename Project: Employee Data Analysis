@@ -1,0 +1,22 @@
+Project: Employee Data Analysis
+Objective:
+Analyze the given employee dataset to uncover trends and insights related to salary distribution, gender representation, department performance, and more.
+
+Tasks:
+Data Exploration:
+
+Load the dataset using Pandas.
+Check for missing values and handle them appropriately.
+Convert any necessary columns to the correct data types.
+Data Analysis:
+
+Calculate the average salary for each department.
+Analyze the distribution of bonuses across different departments.
+Find the average age and salary for senior and non-senior employees.
+Compare the average salary between genders.
+Identify any correlation between age and salary.
+Data Visualization:
+
+Plot the distribution of salaries using a histogram.
+Create a bar chart to compare average salaries across departments.
+Use a pie chart to show the gender distribution within the company.
